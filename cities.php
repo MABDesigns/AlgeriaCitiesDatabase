@@ -1,3 +1,4 @@
+<?php
 array(
    "Adrar",
    "Chlef",
@@ -57,3 +58,4 @@ array(
    "Djanet",
    "M'Ghairr",
    "Méniaa");
+?>
